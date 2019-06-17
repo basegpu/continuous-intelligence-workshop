@@ -1,3 +1,5 @@
+So far so good.
+
 # Continuous Intelligence and CD4ML Workshop
 
 This workshop contains the sample application and machine learning code used for
